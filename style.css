@@ -1,0 +1,42 @@
+body {
+    background-color: azure;
+    font-family: 'Arial';
+  }
+  .wrapper {
+    width:600px;
+    margin: 20px auto;
+    background:#fff;
+    border-radius: 7px;
+  }
+  .profile-header {
+    background: #163a5b;
+    text-align: center;
+    color:#fff;
+    padding: 30px;
+  }
+  .profile-header img {
+    height:150px;
+    width:150px;
+  }
+  .profile-details {
+    padding:20px 20px 30px;
+  }
+  p {
+    color: #444;
+    line-height:1.6;
+    text-align: center
+  }
+  a {
+    margin: 20px auto;
+    text-align: center;
+    background:#e71866;
+    color:#fff;
+    padding:10px 45px;
+    width: 200px;
+    text-decoration:none;
+  }
+  .button {
+    text-align:center;
+    margin-top:40px;
+  }
+  
